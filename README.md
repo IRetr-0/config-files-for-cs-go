@@ -1,5 +1,7 @@
-# autoexec-csgo-Retr0
-it does what it does
+# This has all my configuration files for cs:go
 
-put here for pizza:  
+Install path:  
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+
+
+Please read the whole file before using as it may (will) overwrite your binds
